@@ -86,9 +86,9 @@ just remember that you can't purchase success!
 >  - Third-party notion templates
 
 # Curriculum
-
+emoji: ✅ 
 - [Prerequisites](#prerequisites)
-- [Intro CS](#intro-cs) ✅ 
+- [Intro CS](#intro-cs) 
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
   - [Core math](#core-math)
